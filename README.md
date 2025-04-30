@@ -81,6 +81,3 @@ Experienced with **Docker**, **AWS EC2/S3**, **Linux**, **MySQL/PostgreSQL**, an
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedaali1999&layout=compact&hide=css,scss" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedaali1999&theme=default" alt="GitHub Streak" />
-</p>
