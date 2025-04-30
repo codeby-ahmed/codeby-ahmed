@@ -1,79 +1,86 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ali Shah</h1>
-<h3 align="center">A Passionate Backend Engineer from Pakistan</h3>
+<h3 align="center">🚀 A Passionate Full Stack Engineer from Pakistan</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedaali1999&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ahmedaali1999&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-### 💼 Experience & Expertise
+## 💼 Experience & Expertise
 
-- ⚙️ **Backend Development**  
-  Specializing in **Laravel**, **Lumen**, **Node.js**, REST APIs, and microservice architectures.  
-  Extensive experience designing scalable, secure, and maintainable systems.
+🔧 **Backend Development**  
+Expert in **Laravel**, **Lumen**, **Node.js**, REST APIs, and microservice architecture.  
+Focused on building secure, scalable, and maintainable applications.
 
-- 🧱 **PHP Ecosystem**  
-  Deep knowledge of **Laravel**, **Composer**, **Artisan**, **Eloquent**, and **Laravel Sanctum/Passport** for authentication.
+🧱 **PHP Ecosystem**  
+Advanced usage of **Laravel**, **Eloquent ORM**, **Artisan**, **Composer**, and **Sanctum/Passport** for authentication.
 
-- 🛍️ **E-commerce Platforms**  
-  Skilled in **Magento 2** development: custom modules, theme integration, multi-store configuration, and performance optimization.
+🛍️ **E-commerce Platforms**  
+Hands-on Magento 2 experience including module development, theme customization, and multi-store setup.
 
-- 🖼️ **Frontend Development**  
-  Proficient in **Vue.js**, **Vuex**, **Pinia**, **Composition API**, and **Tailwind CSS**.  
-  Worked with **Inertia.js** and **Blade/Vue hybrid stacks** for full-stack Laravel applications.
+🎨 **Frontend Development**  
+Proficient in **Vue.js**, **Vuex**, **Pinia**, **Tailwind CSS**, and the **Composition API**.  
+Built full-stack apps using **Inertia.js** and Laravel Blade.
 
-- 🧪 **Testing & CI/CD**  
-  Experience with **PHPUnit**, **Jest**, **GitHub Actions**, and **Jenkins** for continuous testing and deployment pipelines.
+🧪 **Testing & CI/CD**  
+Familiar with **PHPUnit**, **Jest**, **GitHub Actions**, and **Jenkins** for automated testing and deployment workflows.
 
-- ☁️ **DevOps & Hosting**  
-  Comfortable with **Docker**, **Linux**, **AWS EC2/S3**, and server provisioning with **Nginx** and **MySQL/PostgreSQL**.
-
----
-
-### 💬 Ask Me About
-
-**PHP**, **Laravel**, **Magento 2**, **Vue.js**, **REST APIs**, **Inertia.js**, **Nuxt**, and **Microservices**
+☁️ **DevOps & Infrastructure**  
+Experienced with **Docker**, **AWS EC2/S3**, **Linux**, **MySQL/PostgreSQL**, and **Nginx** configuration.
 
 ---
 
-### 🌱 Currently Learning
+## 💬 Ask Me About
 
-**Nuxt 3**, **Inertia.js**, **Advanced System Design**, and **Serverless Architecture (Laravel Vapor)**
-
----
-
-### 📫 How to Reach Me
-
-**Email:** ahmedalishah00@gmail.com  
-**LinkedIn:** [ahmed-ali-shah-b27738208](https://linkedin.com/in/ahmed-ali-shah-b27738208)
+`PHP` • `Laravel` • `Magento 2` • `Vue.js` • `Inertia.js` • `Nuxt` • `REST APIs` • `Microservices`
 
 ---
 
-### 🌐 Connect with Me
+## 🌱 Currently Exploring
 
-<p>
+- 🔹 Nuxt 3  
+- 🔹 Inertia.js Deep Dive  
+- 🔹 Advanced System Design  
+- 🔹 Laravel Vapor & Serverless Architecture
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: **ahmedalishah00@gmail.com**  
+- 💼 LinkedIn: [ahmed-ali-shah-b27738208](https://linkedin.com/in/ahmed-ali-shah-b27738208)
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
   <a href="https://linkedin.com/in/ahmed-ali-shah-b27738208" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,vue,react,ts,js,html,css,tailwind,redis,mysql,postgres,mongodb,docker,linux,git,aws,bash,jenkins,express,nuxt,nextjs,cpp" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedaali1999&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedaali1999&show_icons=true&theme=default" alt="Ahmed's GitHub Stats" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedaali1999&layout=compact&hide=css,scss" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedaali1999&theme=default" alt="GitHub Streak" />
+</p>
