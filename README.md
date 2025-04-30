@@ -76,6 +76,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedaali1999&layout=compact&hide=css,scss" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedaali1999" alt="GitHub Streak" />
-</p>
+
