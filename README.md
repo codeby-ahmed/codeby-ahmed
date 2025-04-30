@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ali Shah</h1>
-<h3 align="center">🚀 A Passionate Full Stack Engineer from Pakistan</h3>
+<h3 align="center">🚀 A Passionate Full Stack Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmedaali1999&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
