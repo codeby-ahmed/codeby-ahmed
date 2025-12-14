@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ali Shah</h1>
-<h3 align="center">🚀 A Passionate Full Stack Engineer</h3>
+<h3 align="center">🚀 Full Stack Engineer | Backend-Focused | Financial Systems & Web Applications</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmedaali1999&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -10,39 +10,55 @@
 ## 💼 Experience & Expertise
 
 🔧 **Backend Development**  
-Expert in **Laravel**, **Lumen**, **Node.js**, REST APIs, and microservice architecture.  
-Focused on building secure, scalable, and maintainable applications.
+Experienced in **Laravel**, **Lumen**, **Node.js**, **ASP.NET Web Forms**, **.NET**, and **C#**.  
+Skilled in building **secure, scalable, and high-performance backend systems**, including **financial and remittance applications**.
 
-🧱 **PHP Ecosystem**  
-Advanced usage of **Laravel**, **Eloquent ORM**, **Artisan**, **Composer**, and **Sanctum/Passport** for authentication.
+🌐 **API Development**  
+Strong experience with **RESTful APIs** and **SOAP APIs**, supporting web and mobile integrations across multiple platforms.
 
-🛍️ **E-commerce Platforms**  
-Hands-on Magento 2 experience including module development, theme customization, and multi-store setup.
+🧱 **PHP & .NET Ecosystem**  
+Advanced usage of **Laravel**, **Eloquent ORM**, **Artisan**, **Composer**, **Sanctum/Passport**, along with **C#**, **ADO.NET**, and enterprise-grade backend architectures.
+
+💸 **Financial & Remittance Systems**  
+Hands-on experience working on **Home Remittance Systems**, handling **high-volume transactions**, background jobs, and mission-critical financial workflows.
+
+🗄️ **Databases**  
+Expertise in **Oracle Database (PL/SQL, Stored Procedures, Functions, Packages)** and **MySQL/PostgreSQL**.  
+Focused on **query optimization, performance tuning, and database normalization**.
+
+🧩 **Windows Services & Background Jobs**  
+Built and maintained **Windows Services**, batch processes, scheduled jobs, and backend automation.
 
 🎨 **Frontend Development**  
 Proficient in **Vue.js**, **Vuex**, **Pinia**, **Tailwind CSS**, and the **Composition API**.  
-Built full-stack apps using **Inertia.js** and Laravel Blade.
+Migrated legacy UI templates to **Vue.js** and built full-stack apps using **Inertia.js** and **Laravel Blade**.
+
+🛍️ **E-commerce Platforms**  
+Hands-on experience with **Magento 2**, including module development, theme customization, and multi-store configuration.
 
 🧪 **Testing & CI/CD**  
-Familiar with **PHPUnit**, **Jest**, **GitHub Actions**, and **Jenkins** for automated testing and deployment workflows.
+Experience with **PHPUnit**, **Jest**, **GitHub Actions**, **Jenkins**, and **Azure DevOps CI/CD pipelines**.
 
 ☁️ **DevOps & Infrastructure**  
-Experienced with **Docker**, **AWS EC2/S3**, **Linux**, **MySQL/PostgreSQL**, and **Nginx** configuration.
+Worked with **Docker**, **AWS EC2/S3**, **Azure DevOps**, **Linux**, **Nginx**, **Supervisor**, **Cron Jobs**, and production deployment workflows.
 
 ---
 
 ## 💬 Ask Me About
 
-`PHP` • `Laravel` • `Magento 2` • `Vue.js` • `Inertia.js` • `Nuxt` • `REST APIs` • `Microservices`
+`PHP` • `Laravel` • `.NET` • `ASP.NET Web Forms` • `C#` • `Oracle PL/SQL` • `REST APIs` • `SOAP APIs` •  
+`Vue.js` • `Magento 2` • `Microservices` • `Financial Systems`
 
 ---
 
 ## 🌱 Currently Exploring
 
-- 🔹 Nuxt 3  
-- 🔹 Inertia.js Deep Dive  
-- 🔹 Advanced System Design  
-- 🔹 Laravel Vapor & Serverless Architecture
+- 🔹 ASP.NET Core (.NET 8)
+- 🔹 Entity Framework Core (EF Core) Performance Optimization
+- 🔹 Microservices with .NET & Cloud-Native Patterns    
+- 🔹 Advanced Vue & Inertia.js Patterns  
+- 🔹 System Design for Financial Applications  
+- 🔹 Azure Cloud & DevOps Best Practices  
 
 ---
 
@@ -66,7 +82,7 @@ Experienced with **Docker**, **AWS EC2/S3**, **Linux**, **MySQL/PostgreSQL**, an
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,vue,react,ts,js,html,css,tailwind,redis,mysql,postgres,mongodb,docker,linux,git,aws,bash,jenkins,express,nuxt,nextjs,cpp" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,dotnet,cs,nodejs,vue,react,ts,js,html,css,tailwind,redis,mysql,postgres,mongodb,oracle,docker,linux,git,aws,azure,bash,jenkins,express,nuxt,nextjs" />
 </p>
 
 ---
@@ -80,4 +96,3 @@ Experienced with **Docker**, **AWS EC2/S3**, **Linux**, **MySQL/PostgreSQL**, an
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedaali1999&layout=compact&hide=css,scss" alt="Top Languages" />
 </p>
-
